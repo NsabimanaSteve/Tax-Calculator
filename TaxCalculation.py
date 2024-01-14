@@ -1,3 +1,4 @@
+#Ask the person to enter his/ Her Monthly Income
 gross_monthly_salary = float(input("Enter your gross monthly salary: "))
 
 if gross_monthly_salary < 402:
